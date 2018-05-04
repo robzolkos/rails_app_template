@@ -11,6 +11,8 @@ It is personalised for me.
 * jQuery
 * PostgreSQL
 
+* Select2 - javascript based select/autofill dropdown
+
 ## How to use
 
 1.  Clone the repo, then `cd` into the project folder
