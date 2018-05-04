@@ -20,3 +20,4 @@ It is personalised for me.
 3.  `git init` - start a new git history
 4.  `cp config/database.yml.example config/database.yml` - fill in with your details
 5.  `bundle install`
+6.  `yarn install`
