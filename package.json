@@ -1,0 +1,17 @@
+{
+  "name": "application",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "activestorage": "^5.2.0",
+    "jquery": "^3.3.1",
+    "rails-ujs": "^5.2.0",
+    "select2": "^4.0.6-rc.1",
+    "stimulus": "^1.0.1",
+    "turbolinks": "^5.1.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^0.5.2",
+    "webpack-dev-server": "2.11.2"
+  }
+}
