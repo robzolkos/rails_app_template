@@ -8,10 +8,13 @@
 // layout file, like app/views/layouts/application.html.erb
 
 import "../css/application.css";
-import "../../../node_modules/select2/dist/css/select2.css";
 
-import { Application } from "stimulus";
-import { definitionsFromContext } from "stimulus/webpack-helpers";
+import {
+  Application
+} from "stimulus";
+import {
+  definitionsFromContext
+} from "stimulus/webpack-helpers";
 
 const application = Application.start();
 const context = require.context("controllers", true, /.js$/);

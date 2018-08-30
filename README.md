@@ -4,14 +4,12 @@ This is a starter Rails project that is setup with the basics of most apps that 
 
 It is personalised for me.
 
-* Ruby 2.5.1
-* Rails 5.2
-* TailwindCSS
-* Turbolinks
-* jQuery
-* PostgreSQL
-
-* Select2 - javascript based select/autofill dropdown
+- Ruby 2.5.1
+- Rails 5.2
+- TailwindCSS
+- Turbolinks
+- jQuery
+- PostgreSQL
 
 ## How to use
 
