@@ -8,7 +8,6 @@ It is personalised for me.
 - Rails 5.2
 - TailwindCSS
 - Turbolinks
-- jQuery
 - PostgreSQL
 
 ## How to use
