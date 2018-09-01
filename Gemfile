@@ -61,6 +61,7 @@ group :test do
   # Easy installation and use of chromedriver to run system tests with Chrome
   gem "chromedriver-helper"
   gem "rubocop", require: false
+  gem "rails_best_practices", require: false
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
