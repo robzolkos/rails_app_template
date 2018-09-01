@@ -8,6 +8,7 @@ It is personalised for me.
 - Rails 5.2.1
 - TailwindCSS
 - Turbolinks
+- [Stimulus](https://stimulusjs.org)
 - PostgreSQL
 
 ## How to use
