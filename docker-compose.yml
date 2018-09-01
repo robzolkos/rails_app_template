@@ -5,6 +5,10 @@ services:
     image: postgres:10.5
     ports:
       - "5432:5432"
+    volumes:
+      - ./data/etc:/etc/postgresql
+      - ./data/log:/var/log/postgresql
+      - ./data/data:/var/lib/postgresql/data
 
   redis:
     image: redis:4.0.11
