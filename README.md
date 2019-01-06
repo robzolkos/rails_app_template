@@ -4,8 +4,8 @@ This is a starter Rails project that is setup with the basics of most apps that 
 
 It is personalised for me.
 
-- Ruby 2.5.1
-- Rails 5.2.1
+- Ruby 2.6
+- Rails 5.2.2
 - TailwindCSS
 - Turbolinks
 - [Stimulus](https://stimulusjs.org)
